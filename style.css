@@ -1,0 +1,17 @@
+.main-central{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.space{
+    margin: 20px;
+}
+
+.main-button{
+
+}
+
+.main-totalPercentage{
+
+}
